@@ -1,1 +1,1 @@
-# hanabi_telegram_bot
+# Hanabi: Telegram Bot for Learning Japanese for Indonesian
