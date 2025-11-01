@@ -13,3 +13,8 @@ Install all required dependencies
 pip install -r requirements.txt
 ```
 
+Configure your Google AI StudiO API key
+```python
+TOKEN = "Your token"
+```
+
