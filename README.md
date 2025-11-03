@@ -13,7 +13,8 @@ Install all required dependencies
 pip install -r requirements.txt
 ```
 
-Configure your Google AI StudiO API key
+Configure your Google AI Studio API key
+**Gemini API Key** from [Google AI Studio](https://aistudio.google.com/app/apikey)
 ```python
 TOKEN = "Your token"
 ```
